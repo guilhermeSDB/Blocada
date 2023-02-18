@@ -13,7 +13,7 @@ Blocada é o lugar certo para voce encontrar seus melhores blocos de carnavel em
 ## 👨🏻‍💻 Techs 
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript, gsap" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </a>
 
 ## 🤝 Colaboradores
