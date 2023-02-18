@@ -8,6 +8,8 @@ Blocada é o lugar certo para voce encontrar seus melhores blocos de carnavel em
 
 > Desafio 07 Rockseat - um site para encontrar seu bloco no carnaval.
 
+## [Ver Preview](https://guilhermesdb.github.io/Blocada/)
+
 ## 👨🏻‍💻 Techs 
 
  <a href="https://skillicons.dev">
